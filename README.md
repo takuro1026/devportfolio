@@ -12,6 +12,9 @@ Looking for a blog template? Checkout [DevBlog](https://github.com/RyanFitzgeral
 
 ## Features
 
+# hardy change
+# hardy change 2
+
 * Gulp ready (compiles Sass and minifies JS)
 * Sass ready with lots of commenting
 * Fully responsive
